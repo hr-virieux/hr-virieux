@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+| Proficient    | Intermediate                | Learning                  |
+|---------------|-----------------------------|---------------------------|
+| ![Revit](https://img.shields.io/badge/-Revit-blue) | ![Rhinoceros](https://img.shields.io/badge/-Rhinoceros-lightgrey)& ![Grasshopper](https://img.shields.io/badge/-Grasshopper-green)  | ![Python](https://img.shields.io/badge/-Python-yellow)& ![C#](https://img.shields.io/badge/-C%23-orange)& ![Dynamo](https://img.shields.io/badge/-Dynamo-red) |
+
 
 <!--
 **hr-virieux/hr-virieux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
