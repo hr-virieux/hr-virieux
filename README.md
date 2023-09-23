@@ -18,7 +18,7 @@ I'm an Architectural Designer, learning coding to augment architectural design.
 
 <br><br/>
 
-🌐 [Portfolio](www.henryvirieux.com) | 💼 [LinkedIn](https://www.linkedin.com/in/henryvirieux/) | 📷 [Instagram](https://www.instagram.com/artisanlexicon/)
+🌐 [Website](www.henryvirieux.com) | 💼 [LinkedIn](https://www.linkedin.com/in/henryvirieux/) | 📷 [Instagram](https://www.instagram.com/artisanlexicon/)
 
 <!--
 **hr-virieux/hr-virieux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
