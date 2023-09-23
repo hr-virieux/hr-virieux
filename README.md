@@ -2,7 +2,7 @@
 
 I'm an Architectural Designer, learning coding to augment architectural design.
 
-<br />
+<br><br/>
 
 ## 💼 Skills & Technologies
 | Skill Level    | Technologies                 |
