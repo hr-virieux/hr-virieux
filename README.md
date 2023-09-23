@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 I'm an Architectural Designer, learning coding to augment architectural design.
 
