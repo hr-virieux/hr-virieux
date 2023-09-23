@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-# Hello, World! I'm [sudo]
 I'm an Architectural Designer, learning coding to augment architectural design.
-
+<br />
 ## 💼 Skills & Technologies
 | Skill Level    | Technologies                 |
 |----------------|------------------------------|
