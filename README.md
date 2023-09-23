@@ -18,6 +18,5 @@ I'm an Architectural Designer, learning coding to augment architectural design.
 
 <br><br/>
 
-
 📫 Contact Me
-- 🌐 [Website](www.henryvirieux.com) | 💼 [LinkedIn](https://www.linkedin.com/in/henryvirieux/) | 📷 [Instagram](https://www.instagram.com/artisanlexicon/)
+🌐 [Website](www.henryvirieux.com) | 💼 [LinkedIn](https://www.linkedin.com/in/henryvirieux/) | 📷 [Instagram](https://www.instagram.com/artisanlexicon/)
