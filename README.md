@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm an Architectural Designer, learning coding to augment architectural design.
 
 <br><br/>
 
-# 💼 Skills & Technologies
+### 💼 Skills & Technologies
 | Skill Level    | Technologies                 |
 |----------------|------------------------------|
 | Proficient     | Revit                        |
@@ -13,7 +13,7 @@ I'm an Architectural Designer, learning coding to augment architectural design.
 
 <br><br/>
 
-## 📌 Featured Repository
+### 📌 Featured Repository
 - 🏢 [Architectural Design](https://github.com/hr-virieux/architecture.git)
 
 <br><br/>
