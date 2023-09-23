@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# Hello, World! I'm [sudo]
+I'm an Architectural Designer, learning coding to augment architectural design.
+
 ## 💼 Skills & Technologies
 | Skill Level    | Technologies                 |
 |----------------|------------------------------|
@@ -7,14 +10,10 @@
 | Intermediate   | Rhinoceros, Grasshopper      |
 | Learning       | Python, C#, Dynamo           |
 
-
 ## 📌 Featured Repository
 - 🏢 [Architectural Design](https://github.com/hr-virieux/architecture.git)
 
-
-🌐 [Portfolio](www.henryvirieux.com) | 💼 [LinkedIn](https://www.linkedin.com/in/henryvirieux/) | 📷 [Instagram](https://www.instagram.com/artisanlexicon/)  
-
-
+🌐 [Portfolio](www.henryvirieux.com) | 💼 [LinkedIn](https://www.linkedin.com/in/henryvirieux/) | 📷 [Instagram](https://www.instagram.com/artisanlexicon/)
 
 <!--
 **hr-virieux/hr-virieux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
