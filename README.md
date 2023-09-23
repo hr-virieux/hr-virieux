@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I'm an Architectural Designer, learning coding to augment architectural design.
+
 <br />
+
 ## 💼 Skills & Technologies
 | Skill Level    | Technologies                 |
 |----------------|------------------------------|
@@ -9,8 +11,12 @@ I'm an Architectural Designer, learning coding to augment architectural design.
 | Intermediate   | Rhinoceros, Grasshopper      |
 | Learning       | Python, C#, Dynamo           |
 
+<br />
+
 ## 📌 Featured Repository
 - 🏢 [Architectural Design](https://github.com/hr-virieux/architecture.git)
+
+<br />
 
 🌐 [Portfolio](www.henryvirieux.com) | 💼 [LinkedIn](https://www.linkedin.com/in/henryvirieux/) | 📷 [Instagram](https://www.instagram.com/artisanlexicon/)
 
