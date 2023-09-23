@@ -1,10 +1,16 @@
 ### Hi there 👋
 
-| Skill Level    | Technologies                                           |
-|----------------|--------------------------------------------------------|
-| Proficient     | ![Revit](https://img.shields.io/badge/-Revit-blue)     |
-| Intermediate   | ![Rhinoceros](https://img.shields.io/badge/-Rhinoceros-lightgrey) ![Grasshopper](https://img.shields.io/badge/-Grasshopper-green)|
-| Learning       | ![Python](https://img.shields.io/badge/-Python-yellow) ![C#](https://img.shields.io/badge/-C%23-orange) ![Dynamo](https://img.shields.io/badge/-Dynamo-red)|
+## 💼 Skills & Technologies
+| Skill Level    | Technologies                 |
+|----------------|------------------------------|
+| Proficient     | Revit                        |
+| Intermediate   | Rhinoceros, Grasshopper      |
+| Learning       | Python, C#, Dynamo           |
+
+## 📌 Featured Repository
+- 🏢 [Architectural Design](https://github.com/hr-virieux/architecture.git)
+
+🌐 [Portfolio](www.henryvirieux.com) | 💼 [LinkedIn](https://www.linkedin.com/in/henryvirieux/) | 📷 [Instagram](https://www.instagram.com/artisanlexicon/)  
 
 
 
