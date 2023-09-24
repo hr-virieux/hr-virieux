@@ -12,9 +12,9 @@ Skills & Technologies
 <br><br/>
 
 Featured Repository
-- 🏢 [Architectural Design](https://github.com/hr-virieux/architecture.git)
+- [Architectural Design](https://github.com/hr-virieux/architecture.git)
 
 <br><br/>
 
-📫 Contact Me <br /> 
-🌐 [Website](www.henryvirieux.com) | 💼 [LinkedIn](https://www.linkedin.com/in/henryvirieux/) | 📷 [Instagram](https://www.instagram.com/artisanlexicon/)
+Contact Me <br /> 
+[Website](www.henryvirieux.com) | [LinkedIn](https://www.linkedin.com/in/henryvirieux/) | [Instagram](https://www.instagram.com/artisanlexicon/)
