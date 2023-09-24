@@ -11,9 +11,6 @@ Skills & Technologies
 
 <br><br/>
 
-Featured Repository
-- [Architectural Design](https://github.com/hr-virieux/architecture.git)
-
 <br><br/>
 
 Contact Me <br /> 
