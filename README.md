@@ -11,7 +11,5 @@ Skills & Technologies
 
 <br><br/>
 
-<br><br/>
-
 Contact Me <br /> 
 [Website](www.henryvirieux.com) | [LinkedIn](https://www.linkedin.com/in/henryvirieux/) | [Instagram](https://www.instagram.com/artisanlexicon/)
