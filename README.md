@@ -10,4 +10,4 @@ Skills & Technologies
 
 <br><br/>
 
-[Website](www.henryvirieux.com) | [LinkedIn](https://www.linkedin.com/in/henryvirieux/) | [Instagram](https://www.instagram.com/artisanlexicon/)
+[Website](https://www.henryvirieux.com) | [LinkedIn](https://www.linkedin.com/in/henryvirieux/) | [Instagram](https://www.instagram.com/artisanlexicon/)
