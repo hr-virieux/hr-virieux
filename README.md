@@ -6,7 +6,7 @@ Skills & Technologies
 |----------------|------------------------------|
 | Proficient     | Revit                        |
 | Intermediate   | Rhinoceros, Grasshopper      |
-| Novice         | Python, C#, Dynamo           |
+| Novice         | Python, C#, Dynamo, JavaScript           |
 
 <br><br/>
 
