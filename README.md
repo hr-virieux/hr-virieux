@@ -21,10 +21,10 @@ I'm Henry Virieux, an Architectural Designer with a passion for coding and compu
 
 ## Hobbies
 - [Photography](https://www.flickr.com/photos/hrvirieux/)
+- [Digital & Traditional Design](https://henry-virieux.artstation.com) 
 
 ---
 
 ## Reach Me
 - [LinkedIn](https://www.linkedin.com/in/henryvirieux/) 
 - [Personal Website](https://www.henryvirieux.com) 
-- [Design Portfolio](https://henry-virieux.artstation.com) 
