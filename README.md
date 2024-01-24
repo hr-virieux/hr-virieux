@@ -5,7 +5,6 @@ I'm Henry Virieux, an Architectural Designer with a passion for coding and compu
 
 ## Skills
 - 3D Modeling: Revit, Rhino, Blender
-- 3D Rendering: Twinmotion
 - 2D Graphic Design: Adobe Photoshop, Illustrator and InDesign
 - Coding: Grasshopper, Dynamo
 
