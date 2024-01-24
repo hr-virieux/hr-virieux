@@ -20,7 +20,7 @@ I'm Henry Virieux, an Architectural Designer with a passion for coding and compu
 ---
 
 ## Hobbies
-- [photography](https://www.flickr.com/photos/hrvirieux/).
+- [photography](https://www.flickr.com/photos/hrvirieux/)
 
 ---
 
