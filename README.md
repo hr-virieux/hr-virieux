@@ -3,24 +3,26 @@ I'm Henry Virieux, an architectural designer with a passion for coding and compu
 
 ---
 
-## Skills
-- 3D Modeling: Revit, Rhino, Blender
-- 2D Graphic Design: Adobe Photoshop, Illustrator and InDesign
-- Coding: Grasshopper, Dynamo
-
----
-
-## Learning
+## Coding Skills
+- HTML & CSS
 - JavaScript
 - Python
 - C#
-- Full-Stack web development
+
+---
+
+## Design Software
+- Revit & Dynamo
+- Rhinoceros & Grasshopper
+- Blender
+- Adobe Photoshop, Illustrator & InDesign
 
 ---
 
 ## Hobbies
 - [Photography](https://www.flickr.com/photos/hrvirieux/)
-- [Digital & Traditional Design](https://henry-virieux.artstation.com) 
+- [Digital & Traditional Design](https://henry-virieux.artstation.com)
+- [Architecture](https://www.behance.net/henryvirieux)
 
 ---
 
