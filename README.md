@@ -7,7 +7,6 @@ I'm Henry Virieux, an architectural designer with a passion for coding and compu
 - HTML & CSS
 - JavaScript
 - Python
-- C#
 
 ---
 
