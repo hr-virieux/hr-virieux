@@ -13,8 +13,7 @@ I'm Henry Virieux, an architectural designer with a passion for coding and compu
 ## Design Software
 - Revit & Dynamo
 - Rhinoceros & Grasshopper
-- Blender
-- Adobe Photoshop, Illustrator & InDesign
+- Affinity Suite
 
 ---
 
