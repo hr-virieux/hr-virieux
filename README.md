@@ -1,12 +1,12 @@
 # Hi there 👋
-I'm Henry Virieux, an architectural designer with a passion for coding and computational design.
+I'm Henry Virieux, an architectural designer with a passion for coding.
 
 ---
 
 ## Coding Skills
-- HTML & CSS
 - JavaScript
 - Python
+- C#
 
 ---
 
